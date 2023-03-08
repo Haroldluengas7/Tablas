@@ -1,0 +1,39 @@
+*{
+    margin: auto;
+    padding: 4%;
+    width: 500px;
+    height: 5px;
+
+    
+
+}
+.Tabla{
+    background-color: white;
+    border: 5px solid black;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+   
+}
+tr, td{
+    border: 1px solid white ;
+    background-color: #b3b3b3;
+}
+thead{
+    margin: 10px;
+    padding: 0%;
+}
+.Periodo{
+    font-size: larger;
+}
+.centro{
+    text-align: center;
+}
+.Notas{
+    background-color: black;
+}
+.Tabla :hover{
+background-color: #6a91c1;
+
+}
+
